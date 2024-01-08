@@ -26,13 +26,13 @@ Design Documentations can be found [here](./documentations).
   <img src="./documentations/screenshots/screenshot-landing.png" alt="screenshot">
   <br />
   <br />
-  <img src="./documentations/screenshots/screenshot-videocall.PNG" alt="screenshot">
+  <img src="./documentations/screenshots/screenshot-videocall.jpg" alt="screenshot">
   <br />
   <br />
-  <img src="./documentations/screenshots/screenshot-groupchat.PNG" alt="screenshot">
+  <img src="./documentations/screenshots/screenshot-groupchat.jpg" alt="screenshot">
   <br />
   <br />
-  <img src="./documentations/screenshots/screenshot-chat.PNG" alt="screenshot">
+  <img src="./documentations/screenshots/screenshot-chat.jpg" alt="screenshot">
   <br />
   <br />
 </div>
